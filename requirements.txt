@@ -1,4 +1,11 @@
+# Streamlit - Web App ရဲ့ မျက်နှာစာ (User Interface) ဖြစ်တဲ့ ခလုတ်တွေ၊ ဇယားတွေ၊ စာသားတွေနဲ့ ဂရပ်တွေကို အလွယ်တကူ ဖန်တီးပေးမယ့် အဓိက Library ဖြစ်ပါတယ်။
 streamlit
+
+# Pandas - ဒေတာတွေကို အတန်း (Row) တွေ၊ ကော်လံ (Column) တွေပါတဲ့ ဇယား (DataFrame) ပုံစံဖြစ်အောင် စီစဉ်ပေးပြီး၊ အလွယ်တကူ ရှာဖွေ/တွက်ချက်ပေးနိုင်တဲ့ Library ပါ။
 pandas
+
+# Gspread - Python ကနေ Google Sheets ထဲကို လှမ်းပြီး ဒေတာဖတ်ဖို့၊ အသစ်သွင်းဖို့၊ ပြင်ဆင်ဖို့အတွက် အသုံးပြုရတဲ့ တံတားလို Library လေးပါ။
 gspread
+
+# Google-Auth - Google ရဲ့ လုံခြုံရေးစနစ် (Service Account) ကို ချိတ်ဆက်တဲ့အခါ သော့ (Credentials) တွေ မှန်/မမှန် စစ်ဆေးပြီး တရားဝင် ဝင်ခွင့်တောင်းပေးတဲ့ Library ပါ။
 google-auth
