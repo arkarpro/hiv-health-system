@@ -32,7 +32,7 @@ def get_google_sheet():
     
     # ကိုယ်ဖွင့်ချင်တဲ့ Google Sheet ရဲ့ သီးသန့် ID (Key) အရှည်ကြီးကို ထည့်ပေးပြီး၊
     # ကိုယ်စားလှယ် (client) ကနေတစ်ဆင့် အဲ့ဒီ Sheet ကြီး တစ်ခုလုံးကို ဖွင့်ယူလိုက်တာပါ။
-    sheet = client.open_by_key("1kgbCBC0jzEsmMdyrCpw1uHtF33qhMGmwQRlSNrUau10")
+    sheet = client.open_by_key("1TPZTOzn7sG32OQKy2XwS_oOwtRiRHfCMoY40oovbBYs")
     
     # ချိတ်ဆက်လို့ အောင်မြင်သွားတဲ့အခါ အဲ့ဒီ Sheet ကြီးကို တခြားစာမျက်နှာတွေမှာ 
     # အလွယ်တကူ ဆက်သုံးလို့ရအောင် ဒီ Function ကနေ ပြန်ထုတ် (Return) ပေးလိုက်တာပါ။
